@@ -13,4 +13,4 @@ npm install
 npm run dev
 ```
 
-You can use the "network" dev server running and open it on your mobile device if your computer is connected to the same network.
+Head to http://localhost:3000/. To add another player, open a new tab and navigate to the same URL.
